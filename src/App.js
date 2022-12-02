@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      {console.log("esta es la prueba definitiva")}
+      {console.log("cambiando el main desde github")}
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         
