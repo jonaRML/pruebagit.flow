@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      {console.log("cambiando develop desde github
+      {console.log("cambiando develop desde github")}
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         
