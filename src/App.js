@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      {console.log("esta esta es la segunda prueba")}
+      {console.log("somos fuertes")}
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         
